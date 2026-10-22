@@ -1,0 +1,21 @@
+{
+  "name": "Gamze Durmaz Nail Studio",
+  "short_name": "GD Nail Studio",
+  "description": "Lüks Protez Tırnak, Kuru Rus Manikür & Nail Art Stüdyosu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfbf9",
+  "theme_color": "#c59b27",
+  "icons": [
+    {
+      "src": "assets/images/logo.webp",
+      "sizes": "680x680",
+      "type": "image/webp"
+    },
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "680x680",
+      "type": "image/png"
+    }
+  ]
+}

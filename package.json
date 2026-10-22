@@ -1,0 +1,8 @@
+{
+  "name": "gdnaillash",
+  "version": "1.0.0",
+  "description": "Gamze Durmaz Nail Studio Web Application",
+  "scripts": {
+    "start": "serve ."
+  }
+}
